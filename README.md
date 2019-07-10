@@ -24,6 +24,6 @@ Run the Android project
 - The application makes an API call from Flickr and display it as a list onto a recycle view.
 - Click on the images to see the option to view it bigger or smaller.
 
-![](ScreenShots/flickrcall1.png)
-![](ScreenShots/flickrcall2.png)
-![](ScreenShots/flickrcall3.png)
+![](screenshots/flickrcall1.png)
+![](screenshots/flickrcall2.png)
+![](screenshots/flickrcall3.png)
