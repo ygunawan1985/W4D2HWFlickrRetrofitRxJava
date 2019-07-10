@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">W4HW2FlickrUsingRetrofitRxJava</string>
+    <string name="flickr_api_call">Flickr API Call</string>
+</resources>
