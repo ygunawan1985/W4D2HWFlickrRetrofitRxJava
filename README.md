@@ -27,3 +27,6 @@ Run the Android project
 ![](screenshots/flickrcall1.png)
 ![](screenshots/flickrcall2.png)
 ![](screenshots/flickrcall3.png)
+![](screenshots/showoptions.png)
+![](screenshots/showfullimage.png)
+![](screenshots/showsmallimage.png)
